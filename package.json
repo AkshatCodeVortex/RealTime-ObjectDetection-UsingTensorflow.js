@@ -11,8 +11,9 @@
     "fingerpose": "0.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3",
-    "react-webcam": "^5.2.0"
+    "react-scripts": "^5.0.1",
+    "react-webcam": "^5.2.0",
+    "yarn": "^1.22.21"
   },
   "scripts": {
     "start": "react-scripts start",
